@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-  baseURL: 'https://100.26.23.20:3030',
+  baseURL: 'https://url.takedaservice.uz',
 });
 
 export default api;
